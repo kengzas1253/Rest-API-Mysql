@@ -2,5 +2,5 @@
 # Read ME
 ```
 npm i
-
-```java
+Please connect database
+```
